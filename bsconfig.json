@@ -1,0 +1,19 @@
+{
+  "name": "reason-express-static",
+  "sources": [
+    "src"
+  ],
+  "reason": {
+    "react-jsx": 2
+  },
+  "bsc-flags": [
+    "-bs-super-errors"
+  ],
+  "refmt": 3,
+  "bs-dependencies" : [
+    "bs-express"
+  ],
+  "bs-dev-dependencies" : [
+    "bs-jest"
+  ]
+}
